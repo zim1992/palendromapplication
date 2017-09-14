@@ -1,0 +1,10 @@
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/bin/Debug/netcoreapp2.0/pallendromApplication.deps.json
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/bin/Debug/netcoreapp2.0/pallendromApplication.runtimeconfig.json
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/bin/Debug/netcoreapp2.0/pallendromApplication.runtimeconfig.dev.json
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/bin/Debug/netcoreapp2.0/pallendromApplication.dll
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/bin/Debug/netcoreapp2.0/pallendromApplication.pdb
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/obj/Debug/netcoreapp2.0/pallendromApplication.csproj.CoreCompileInputs.cache
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/obj/Debug/netcoreapp2.0/pallendromApplication.AssemblyInfoInputs.cache
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/obj/Debug/netcoreapp2.0/pallendromApplication.AssemblyInfo.cs
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/obj/Debug/netcoreapp2.0/pallendromApplication.dll
+/home/corjan/Documents/palendromapplication/Code/pallendromApplication/obj/Debug/netcoreapp2.0/pallendromApplication.pdb
